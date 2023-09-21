@@ -1,15 +1,5 @@
 <p align="center">
-  <img src="https://github.com/seu-usuario/AdoteAi/blob/main/screenshots/screenshot.png" alt="AdoteAi">
-</p>
-
-<h1 align="center">AdoteAi</h1>
-
-<p align="center">
-  Um projeto open source para simplificar a adoção de animais de estimação.
-</p>
-
-<p align="center">
-  <img src="https://github.com/seu-usuario/AdoteAi/blob/main/screenshots/screenshot.png" alt="AdoteAi">
+  <img src="../screenshots/adoteai-logo.png" alt="AdoteAi">
 </p>
 
 <h1 align="center">AdoteAi</h1>
