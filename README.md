@@ -37,21 +37,7 @@ Siga as etapas abaixo para instalar e executar o projeto:
    ```bash
    git clone https://github.com/seu-usuario/AdoteAi.git
 
-
-
 Claro, você pode aprimorar o README.md do projeto "AdoteAi" incluindo elementos comuns encontrados em grandes projetos open source no GitHub. Aqui está uma versão aprimorada do README.md:
-
-markdown
-Copy code
-<p align="center">
-  <img src="https://github.com/seu-usuario/AdoteAi/blob/main/screenshots/screenshot.png" alt="AdoteAi">
-</p>
-
-<h1 align="center">AdoteAi</h1>
-
-<p align="center">
-  Um projeto open source para simplificar a adoção de animais de estimação.
-</p>
 
 ## Funcionalidades
 
@@ -79,33 +65,34 @@ Siga as etapas abaixo para instalar e executar o projeto:
 
 1. **Clone o repositório:**
 
-   ```bash
-   git clone https://github.com/seu-usuario/AdoteAi.git
+ ```bash
+ git clone https://github.com/seu-usuario/AdoteAi.git
+ ```
+   
 Navegue até o diretório do backend:
-
-bash
-Copy code
+```bash
 cd AdoteAi/Backend
+```
+
 Execute o servidor ASP.NET Core:
-
-bash
-Copy code
+```bash
 dotnet run
+```
+
 Navegue até o diretório do frontend:
-
-bash
-Copy code
+```bash
 cd ../Frontend
+```
+
 Instale as dependências do Angular:
-
-bash
-Copy code
+```bash
 npm install
-Inicie o servidor de desenvolvimento do Angular:
+```
 
-bash
-Copy code
+Inicie o servidor de desenvolvimento do Angular:
+```bash
 ng serve
+```
 Agora você pode acessar o aplicativo em http://localhost:4200 no seu navegador.
 
 Contribuição
